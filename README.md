@@ -3,7 +3,15 @@ A Course on Deterministic Distributed Algorithms
 
 Online textbook by Jukka Suomela.
 
-See http://users.ics.aalto.fi/suomela/dda/ for more information.
+For more information, see:
+http://users.ics.aalto.fi/suomela/dda/
+
+
+License
+-------
+
+This work is licensed under CC BY-SA 3.0:
+http://creativecommons.org/licenses/by-sa/3.0/
 
 
 Compilation with latexmk
